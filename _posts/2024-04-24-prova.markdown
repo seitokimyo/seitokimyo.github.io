@@ -4,4 +4,12 @@ title:  "Prova"
 date:   2024-04-24 19:31:24 +0200
 categories: jekyll update
 ---
-Questo invece è il primo post di prova
+# Le basi
+Questo è un primo post di prova
+
+# Formattazione avanzata
+Oltre alla formattazione di base è possibile creare formattazione avanzata.
+Ad esempio mettere degli alert.
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
