@@ -4,4 +4,5 @@
 
 layout: home
 ---
-Si può scrivere qui?
+Ok, quindi quello che scrivo qui viene scritto sopra i post.
+Interessante, questa dunque è la pagina iniziale.
