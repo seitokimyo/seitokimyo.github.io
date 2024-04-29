@@ -4,11 +4,5 @@
 
 layout: home
 ---
-Questo sito rappresenta la parte pubblica del Zettelkasten di Seito Kimyo.
-## Linee guida Zettelkasten
-Questo sito fa anche parte del mio sistema di Zettelkasten. Le [linee guida](https://github.com/seitokimyo/Zettel/wiki/Linee-Guida) sono nell'apposito wiki.
-
-## Wiki
-Seito ha diversi Wiki, quello dedicato ai libri è:
-
-[Wiki Libri](https://github.com/seitokimyo/Books/wiki)
+Questo sito è la parte pubblica del Zettelkasten di Seito Kimyo.
+Nella home page è possibile accedere ai diversi temi mentre gli strumenti sono disponibili nell'apposita pagina "Zettelkasten".
