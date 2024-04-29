@@ -5,13 +5,14 @@
 layout: home
 ---
 Piacere, mi presento, sono Seito Kimyo, sono in Italia ormai da vent'anni. Sono arrivato per studiare Storia dell'arte ed eccomi qui.
-Ho tanti interessi: mi piace leggere un po' di tutto e vado un po' a periodi, anche se sono appassionato di letteratura contemporanea e poi Borges, Proust, Kafka e tanti altri, potete vedere su Goodreads le mie letture dal 2020 in poi.
-Sono interessato anche ai saggi di economia, sociologia e neuroscienze.
-Mi piace molto la musica classica ed il jazz, i miei autori contemporanei preferiti sono Arvo Part, Philip Glass e Miles Davis.  
+Ho tanti interessi: 
+* mi piace leggere un po' di tutto e vado un po' a periodi, anche se sono appassionato di letteratura contemporanea e poi Borges, Proust, Kafka e tanti altri, potete vedere su Goodreads le mie letture dal 2020 in poi.
+* Sono interessato anche ai saggi di economia, sociologia e neuroscienze.
+* Mi piace molto la musica classica ed il jazz, i miei autori contemporanei preferiti sono Arvo Part, Philip Glass e Miles Davis.  
+* Un altro mio hobby è la finanza: sono un investitore value, curioso anche di criptovalute.
+* EUn altro hobby è quello del vintage computer: Commodore e Spectrum su tutti.
+* Infine sto avviando una mia attività di imprenditore: sto sviluppando una start up dedicata alla IA per lo sviluppo sostenibile. In particolare sto sviluppando una piattaforma dedicata alla progettazione e negoziazione di interessi multipli attraverso l'intelligenza artificiale.
 
-Un altro mio hobby è la finanza: sono un investitore value, curioso anche di criptovalute.
-Ed un altro hobby è quello del vintage computer: Commodore e Spectrum su tutti.
-Infine sto avviando una mia attività di imprenditore: sto sviluppando una start up dedicata alla IA per lo sviluppo sostenibile. In particolare sto sviluppando una piattaforma dedicata alla progettazione e negoziazione di interessi multipli attraverso l'intelligenza artificiale.
 Un obiettivo di questo sito è migliorare le mie competenze di blogger. [Perché dovresti bloggare](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045).
 
 ## Wiki
