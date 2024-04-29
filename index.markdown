@@ -15,9 +15,9 @@ Questi sono i wiki dei diversi argomenti:
 |Argomento|Piattaforma esterna|Wiki| 
 |:---:|:---:|:---:| 
 |Libri|[Goodreads](https://www.goodreads.com/review/list/120356713?ref=nav_mybooks)|[Wiki Libri](https://github.com/seitokimyo/Books/wiki/indice-generale)|
-|17|16|6|
-|15|20|16|
-|12|12|12| 
+|Musica|open.spotify.com|n.a.|
+|Vintage computer|n.a.|n.a.|
+|Finanza|[Google Finance](https://www.google.com/finance/?authuser=1)|wiki in costruzione| 
 
  
 
