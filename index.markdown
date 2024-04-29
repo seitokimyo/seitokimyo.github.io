@@ -12,7 +12,7 @@ Mi piace molto la musica classica ed il jazz, i miei autori contemporanei prefer
 Un altro mio hobby è la finanza: sono un investitore value, curioso anche di criptovalute.
 Ed un altro hobby è quello del vintage computer: Commodore e Spectrum su tutti.
 Infine sto avviando una mia attività di imprenditore: sto sviluppando una start up dedicata alla IA per lo sviluppo sostenibile. In particolare sto sviluppando una piattaforma dedicata alla progettazione e negoziazione di interessi multipli attraverso l'intelligenza artificiale.
-
+Un obiettivo di questo sito è migliorare le mie competenze di blogger. [Perché dovresti bloggare](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045).
 
 ## Wiki
 Seito ha diversi Wiki, quello dedicato ai libri è:
