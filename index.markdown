@@ -10,6 +10,7 @@ Sono interessato anche ai saggi di economia, sociologia e neuroscienze.
 Mi piace molto la musica classica ed il jazz, i miei autori contemporanei preferiti sono Arvo Part, Philip Glass e Miles Davis.  
 
 Un altro mio hobby è la finanza: sono un investitore value, curioso anche di criptovalute.
+Ed un altro hobby è quello del vintage computer: Commodore e Spectrum su tutti.
 Infine sto avviando una mia attività di imprenditore: sto sviluppando una start up dedicata alla IA per lo sviluppo sostenibile. In particolare sto sviluppando una piattaforma dedicata alla progettazione e negoziazione di interessi multipli attraverso l'intelligenza artificiale.
 
 
