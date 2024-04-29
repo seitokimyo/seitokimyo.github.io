@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Appunti Workflow"
-date:   2024-04-29 14:34:00 +0200
+date:   2024-04-29 18:11:00 +0200
 categories: appunti
 ---
 
@@ -63,6 +63,14 @@ Il workflow comprende cinque fasi: catturare, elaborare, rivedere, produrre e ri
 ### Documenti particolari
 * **Fatture, bollette** può essere utile prendere un appunto su un foglio google, in ordine di arrivo per tenere nota di scadenze e pagamenti
 * **Dati bancari** si tratta più di un back up locale, che può valere la pena fare su Gdrive
+
+### Indice generale
+Come deve essere strutturato? Può essere una pagina statica? Dove deve essere tenuto? 
+
+### Rappresentazione grafica 
+Sulla base delle cinque fasi si può elaborare graficamente il workflow con i diversi esiti e passaggi.
+
+
 
 
 ## Note
