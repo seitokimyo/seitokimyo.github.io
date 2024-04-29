@@ -60,6 +60,9 @@ Il workflow comprende cinque fasi: catturare, elaborare, rivedere, produrre e ri
 
 
 ## Possibili evoluzioni
+### Documenti particolari
+**Fatture, bollette** può essere utile prendere un appunto su un foglio google, in ordine di arrivo per tenere nota di scadenze e pagamenti
+**Dati bancari** si tratta più di un back up locale, che può valere la pena fare su Gdrive
 
 
 ## Note
