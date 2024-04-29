@@ -5,4 +5,19 @@
 layout: home
 ---
 Questo sito è la parte pubblica del Zettelkasten di Seito Kimyo.
-Nella home page è possibile accedere ai diversi temi mentre gli strumenti sono disponibili nell'apposita pagina "Zettelkasten".
+Dalla home page è possibile accedere ai diversi temi mentre gli strumenti sono disponibili nell'apposita pagina "Zettelkasten".
+La parte pubblica per il momento è interamente sviluppata su Github.
+
+L'indice è fondamentale perché è il primo passo per connettere tra di loro gli appunti e le piattaforme.
+Viene aggiornato costantemente.
+Questi sono i wiki dei diversi argomenti:
+
+|Argomento|Piattaforma esterna|Wiki| 
+|:---:|:---:|:---:| 
+|Libri|[Goodreads](https://www.goodreads.com/review/list/120356713?ref=nav_mybooks)|[Wiki Libri](https://github.com/seitokimyo/Books/wiki/indice-generale)|
+|17|16|6|
+|15|20|16|
+|12|12|12| 
+
+ 
+
