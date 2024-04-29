@@ -1,5 +1,5 @@
 ---
-layout: nessuno
+layout: page
 title:  "Appunti Workflow"
 date:   2024-04-29 14:34:00 +0200
 categories: appunti
