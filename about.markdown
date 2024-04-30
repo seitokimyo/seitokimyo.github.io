@@ -12,3 +12,12 @@ Ho tanti interessi:
 * Un altro mio hobby è la finanza: sono un investitore value, curioso anche di criptovalute.
 * EUn altro hobby è quello del vintage computer: Commodore e Spectrum su tutti.
 * Infine sto avviando una mia attività di imprenditore: sto sviluppando una start up dedicata alla IA per lo sviluppo sostenibile. In particolare sto sviluppando una piattaforma dedicata alla progettazione e negoziazione di interessi multipli attraverso l'intelligenza artificiale.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
