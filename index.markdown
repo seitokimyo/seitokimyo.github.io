@@ -19,7 +19,7 @@ Questi sono i wiki dei diversi argomenti:
 |Vintage computer|n.a.|n.a.|
 |Finanza|[Google Finance](https://www.google.com/finance/?authuser=1)|[Wiki finanza](https://github.com/seitokimyo/Finance/wiki)| 
 
- <h1>Archive of posts with {{ sviluppo.category }} '{{ sviluppo.category }}'</h1>
+ <h1>Archive of posts with {{ 29.day }} '{{ 29.day }}'</h1>
 <ul class="posts">
   {% for post in page.posts %}
     <li>
