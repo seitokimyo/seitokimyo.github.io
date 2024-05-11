@@ -18,6 +18,8 @@ Questi sono i wiki dei diversi argomenti:
 |Musica|open.spotify.com|n.a.|
 |Vintage computer|n.a.|n.a.|
 |Finanza|[Google Finance](https://www.google.com/finance/?authuser=1)|[Wiki finanza](https://github.com/seitokimyo/Finance/wiki)| 
+|Viaggi|n.a.|n.a.|
+|Ricette|n.a.|n.a.|
 
  <h1>Archive of posts with {{ 29.day }} '{{ 29.day }}'</h1>
 <ul class="posts">

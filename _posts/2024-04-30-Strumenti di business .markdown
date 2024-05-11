@@ -10,4 +10,6 @@ Una raccolta di strumenti utili
 
 [Generatore di codice QR](https://new.express.adobe.com/tools/generate-qr-code)
 
+***
 
+Sui codici Qr farò comunque un approfondimento anche in ottica Zettelkasten
