@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strumenti di business"
+title:  "Qr code e Tag nfc"
 date:   2024-04-30 11:05:00 +0200
 categories: business
 ---
