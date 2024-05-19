@@ -5,3 +5,5 @@ date:   2024-05-19 11:05:00 +0200
 categories: viaggi
 ---
 Organizzazione del viaggio in Hokkaido
+
+![Hokkaido](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Map_of_Japan_with_highlight_on_02edit_Hokkaido_prefecture.svg/250px-Map_of_Japan_with_highlight_on_02edit_Hokkaido_prefecture.svg.png)
