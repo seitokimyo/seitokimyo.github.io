@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2024-04-24 19:31:24 +0200
-categories: jekyll update
+categories: update
 ---
 Questo è un post tecnico per ricordare che i post devono essere salvati con il seguente standard:
 
